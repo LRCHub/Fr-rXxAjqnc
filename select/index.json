@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Let's be ONE",
+  "base_artist": "Liella!",
+  "createdAt": "2026-02-09T16:40:01.663750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's be ONE",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/01_Let's_be_ONE_Liella!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's be ONE",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/02_Let's_be_ONE_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "lets be one",
+      "artist": "liella",
+      "has_synced": true,
+      "path": "select/03_lets_be_one_liella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let's be ONE",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_Let's_be_ONE_Liella!.txt"
+    }
+  ]
+}
